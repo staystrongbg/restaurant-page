@@ -1,0 +1,30 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staystrongbg/restaurant-page.git"
+  },
+  "keywords": [
+    "food",
+    "menu"
+  ],
+  "author": "zoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staystrongbg/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/staystrongbg/restaurant-page#readme",
+  "devDependencies": {
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "css-loader": "^5.2.1",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
